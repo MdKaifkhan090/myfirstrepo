@@ -26,3 +26,4 @@ elems.forEach((e) => {
         fixed.style.backgroundImage =  `url(${image})`
     })
 });
+
